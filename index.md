@@ -19,7 +19,7 @@
 2. JS
 3. Python<br/>
 
-**Goals:**<br/>
+**Grinding Goals:**<br/>
 - [x] 50 Leetcode
 - [ ] 100 Leetcode
 - [ ] 150 Leetcode
@@ -36,7 +36,7 @@
 > Why buy spectre when you can buy judge?
 >
 **Riot Tag:** ```Emaneliforp#001```<br/>
-**Main agents:** [Killjoy](/assets/banana.png), Sova<br/>
+**Main agents:** [Killjoy](/assets/banana.png), Sova, Chamber<br/>
 **Warm up routine:**<br/>
 1. Aimlab
 2. Range
