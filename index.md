@@ -23,7 +23,9 @@
 ## Interests
 ### [Valorant](https://playvalorant.com/)
 ![valorant banner](/assets/val.jpg)<br/>
-> Why buy spectre when you can buy judge?<br/>
+>
+> Why buy spectre when you can buy judge?
+>
 **Riot Tag:** ```Emaneliforp#001```<br/>
 **Main agents:** [Killjoy](/assets/banana.png), Sova<br/>
 **Warm up routine:**<br/>
