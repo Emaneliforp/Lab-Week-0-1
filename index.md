@@ -18,6 +18,14 @@
 1. Java
 2. JS
 3. Python
+**Goals:**<br/>
+- [x] 50 Leetcode
+- [ ] 100 Leetcode
+- [ ] 150 Leetcode
+- [x] 700 CodeSignal
+- [x] 750 CodeSignal
+- [ ] 775 CodeSignal
+- [ ] 800 CodeSignal
 
 
 ## Interests
@@ -32,10 +40,3 @@
 1. Aimlab
 2. Range
 3. Deathmatch
-
-
-
-
-
-Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
-Task lists
