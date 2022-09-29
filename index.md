@@ -13,6 +13,10 @@
 
 ## Programming
 ![git profile picture](/assets/gitpfp.png)<br/>
+```
+System.out.println("Hello Word!");
+```
+
 **Github:** [Emaneliforp](https://github.com/Emaneliforp)<br/>
 **Programming languages:**<br/>
 1. Java
